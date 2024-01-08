@@ -1,0 +1,163 @@
+*{
+    color: #FFF;
+}
+
+.banner{
+    margin:50px auto;
+   position: relative;
+
+}
+.image-banner{
+    text-align: center;
+}
+/*discount div*/
+.discount{
+    font-family: 'Inter', sans-serif;
+    color: #F00;
+    text-align: center;
+    font-size: 88px;
+    font-weight: 700;  
+}
+.dis-description{
+    font-family: 'Inter', sans-serif;
+    color: #F00;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 500;  
+    margin-bottom: 5px;
+}
+.disc-catagory{
+    color: #070211;
+text-align: center;
+font-family: 'Inter', sans-serif;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.image1{
+    text-align: center;
+}
+
+.spans{
+    color: #F00;
+font-family: Inter;
+
+font-size: 32px;
+font-weight: 600;
+}
+.place-info{
+    color: #070211;
+font-family: Inter;
+font-size: 32px;
+font-weight: 600;
+}
+.place-div{
+    height:482px ;
+    width:1320px ;
+    margin: 140px auto ;
+    
+    background-image:linear-gradient( rgba(255, 0, 0, 0.10) , rgba(255, 0, 0, 0.00) ) ;
+
+}
+
+
+.descripton-div{
+
+    padding:100px 385px 50px 385px ;
+}
+.btn{
+    background-color: #F00;
+    color: #FFF;
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-weight: 700;
+    padding: 16px 32px;
+    border-radius: 5px;
+    border: 0px;
+}
+.button-div{
+    text-align: center; 
+}
+.extras
+{
+    padding-left:100px ;
+}
+.extras-1{
+    padding-left:40px ;
+}
+.news{
+ color: #F00;
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+}
+.coming-soon{
+    color: #070211;
+font-family: Inter;
+font-size: 48px;
+font-weight: 900;
+}
+.sec-desc{
+color: rgba(7, 2, 17, 0.60);
+font-family: Inter;
+font-size: 20px;
+font-weight: 400;
+}
+.section-3-div{
+    width: 70%;
+    height: 730px;
+    margin: auto;
+    display:flex;
+    gap: 115px;
+  
+}
+.year-title{
+color: #F00;
+font-family: Inter;
+font-size: 48px;
+font-weight: 700;
+
+}
+.sec-4-head{
+    color: #070211;
+    font-family: Inter;
+    font-size: 72px;
+    font-weight: 900;
+    margin-top:30px ;
+
+}
+.span-2{
+    color: #F00;
+    text-align: center;
+    font-family:Inter;
+    font-size: 72px;
+    font-weight: 900;
+}
+.functional-title{
+   color: rgb(114, 114, 114);
+   font-family: 'Courier New', Courier, monospace;
+font-size: 30px;
+font-weight: 550px;
+margin-bottom: 0px;
+}
+.section-4-div{
+    margin-top: 0px;
+    width: 70%;
+    height: 800px;
+    margin: auto;
+   
+
+}
+.sec-4-nested-div{
+   
+    text-align: center;
+}
+
+
+
+.girls-image{
+ padding:
+    text-align: right;
+}
